@@ -1,0 +1,29 @@
+plugins {
+    id 'java'
+}
+
+group 'me.jmraich'
+version '1.0'
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+configurations {
+    extraLibs // configuration for libs to include in the jar
+}
+
+dependencies {
+    compile 'club.minnced:java-discord-rpc:2.0.1'
+    extraLibs 'club.minnced:java-discord-rpc:2.0.1'
+
+    compile fileTree(include: ['*.jar'], dir: 'libs') // libs\JByteMod-1.8.2.jar
+}
+
+
+jar {
+    from {
+        configurations.extraLibs.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}
