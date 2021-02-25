@@ -1,13 +1,11 @@
 # Getting Started
 
-**System Requirements**
----
+### System Requirements
 * Java 8 or newer
 
 ---
 
-**Install and launch**
----
+### Install and launch
 > Download JByteModRPC-X.X.jar -> ([JByteModRPC-X.X.jar](https://github.com/JMRaichDev/JByteModRPC/releases))
 > 
 > move it to "/plugins/" folder of JByteMod ([JBtyeMod-X.X.X.jar](https://github.com/GraxCode/JByteMod-Beta/releases))
@@ -25,8 +23,7 @@
 
 ---
 
-**For Developpers : Clone and build**
----
+### For Developpers : Clone and build
 > ```console
 > git clone https://github.com/JMRaichDev/JByteModRPC.git
 > cd JByteModRPC
