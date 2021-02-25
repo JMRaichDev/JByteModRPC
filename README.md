@@ -8,9 +8,9 @@
 
 **Install and launch**
 
-> Download JByteModRPC-X.X.jar -> [Lest release](https://github.com/JMRaichDev/JByteModRPC/releases)
+> Download JByteModRPC-X.X.jar -> ([JByteModRPC-X.X.jar](https://github.com/JMRaichDev/JByteModRPC/releases))
 > 
-> move it to "/plugins/" folder of JByteMod [Last release](https://github.com/GraxCode/JByteMod-Beta/releases)
+> move it to "/plugins/" folder of JByteMod ([JBtyeMod-X.X.X.jar](https://github.com/GraxCode/JByteMod-Beta/releases))
 > 
 > Launch JByteMod and the plugin will be loaded !
 
