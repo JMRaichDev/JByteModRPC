@@ -13,6 +13,8 @@
 > move it to "/plugins/" folder of JByteMod ([JBtyeMod-X.X.X.jar](https://github.com/GraxCode/JByteMod-Beta/releases))
 > 
 > Launch JByteMod and the plugin will be loaded !
+> 
+>![ScreenShot](https://github.com/JMRaichDev/JByteModRPC/blob/master/readme-img/screenshot-readme.PNG)
 
 ---
 
