@@ -14,7 +14,10 @@
 > 
 > Launch JByteMod and the plugin will be loaded !
 > 
->![ScreenShot](https://github.com/JMRaichDev/JByteModRPC/blob/master/readme-img/screenshot-readme.PNG)
+>![ScreenShot-01](https://github.com/JMRaichDev/JByteModRPC/blob/master/readme-img/screenshot-01.png)
+>![ScreenShot-02](https://github.com/JMRaichDev/JByteModRPC/blob/master/readme-img/screenshot-02.png)
+>![ScreenShot-03](https://github.com/JMRaichDev/JByteModRPC/blob/master/readme-img/screenshot-03.png)
+>
 
 ---
 
