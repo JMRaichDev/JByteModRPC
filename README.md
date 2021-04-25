@@ -16,9 +16,7 @@
 > **Preview :**
 > ---
 > 
->![ScreenShot-01](https://github.com/JMRaichDev/JByteModRPC/blob/master/readme-img/screenshot-01.png)
->![ScreenShot-02](https://github.com/JMRaichDev/JByteModRPC/blob/master/readme-img/screenshot-02.png)
->![ScreenShot-03](https://github.com/JMRaichDev/JByteModRPC/blob/master/readme-img/screenshot-03.png)
+>![Preview](https://github.com/JMRaichDev/JByteModRPC/blob/master/readme-img/preview.png)
 >
 
 ---
